@@ -1,4 +1,4 @@
-# To do list app with ReactJS
+# To do list app with React JS
 
 At this application you can:
 
@@ -9,6 +9,7 @@ At this application you can:
 -   see all your tasks at the **All Tasks** tab
 -   see tasks at today or at specific day at **Today's Tasks** tab
 -   see finished tasks at **Finished Tasks** tab
+-   A quote appears at the top of the page
 -   you can also choose you favorite color from 6 colors as a main color at the app (the app will remember your choice 😉)
 -   and you can arrange tasks by three choices (again the app will remember that)
 
